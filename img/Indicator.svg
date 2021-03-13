@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="12.25" viewBox="0 0 25 12.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Indicator" class="cls-1" d="M722.474,564.724l0.026,0.026h-25L709.942,552.5Z" transform="translate(-697.5 -552.5)"/>
+</svg>
